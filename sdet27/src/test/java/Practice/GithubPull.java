@@ -19,6 +19,11 @@ public class GithubPull {
 	}
 	@Test
 	public void tyy() {
-		System.out.println("push and pull");
+		System.out.println("again again pull");
+		
+	}
+	@Test
+	public void ajajfgay() {
+		
 	}
 }
