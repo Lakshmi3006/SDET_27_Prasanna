@@ -13,6 +13,9 @@ public class GithubPull {
 	public void deleteTyy() {
 		System.out.println("again push and pull");
 	}
-	
+	@Test
+	public void updateTyy() {
+		System.out.println("again push and pull");
+	}
 
 }
