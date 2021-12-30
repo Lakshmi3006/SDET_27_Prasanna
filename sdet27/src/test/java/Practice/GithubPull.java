@@ -17,5 +17,8 @@ public class GithubPull {
 	public void updateTyy() {
 		System.out.println("again push and pull");
 	}
-
+	@Test
+	public void tyy() {
+		System.out.println("push and pull");
+	}
 }
